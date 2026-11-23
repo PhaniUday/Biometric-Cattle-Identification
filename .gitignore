@@ -1,0 +1,15 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+Cattle Muzzle - DB/
+Cattle Muzzle - DB.zip
+experiments/
+
+.env
+.env.*
+.ipynb_checkpoints/
+.vscode/
+*.log
